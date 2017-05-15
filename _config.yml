@@ -1,16 +1,17 @@
 # Site settings
-title: Lorem Ipsum - Web Developer
-description: "A blog about lorem ipsum ..."
+title: Evans Dianga - Javascript, Angular, Python and Machine Learning
+description: "It's Evans. Sharing thoughts and insights from my day to day experiences developing software and doing Machine Learning."
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
-url: "http://victorvoid.github.io/space-jekyll-template/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+url: "" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 # User settings
-username: lorem ipsum
-user_title: Lorem Ipsum - FrontEnd
-email: lorem.lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
-disqus_username: loremipsum
+username: Evans Dianga
+user_title: Evans Dianga
+email: evans@itsevans.com
+twitter_username: dianga
+github_username:  evansdianga
+user_description: Immersed in Code
+# gplus_username:  loremipsum
+# disqus_username: loremipsum
 profile_picture: https://68.media.tumblr.com/93f384858e9273d5b980b418e2f2f4d5/tumblr_o5i2aybLJG1uapsfmo2_250.png
 
 # Build settings
