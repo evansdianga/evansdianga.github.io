@@ -2,7 +2,7 @@
 title: Evans Dianga - Javascript, Angular, Python and Machine Learning
 description: "It's Evans. Sharing thoughts and insights from my day to day experiences developing software and doing Machine Learning."
 baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
-url: "" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
+url: "itsevans.com" 
 # User settings
 username: evans DIANGA
 user_title: Evans Dianga
