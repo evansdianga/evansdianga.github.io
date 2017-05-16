@@ -2,7 +2,7 @@
 layout: post
 title:  "Installing python 3 and pip3  on macOS sierra"
 image: ''
-date:   2017-05-12 00:06:31
+date:   2017-05-12 23:06:31
 tags:
 - python
 - pip
