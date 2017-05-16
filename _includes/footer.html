@@ -3,3 +3,4 @@
 	<p>Made with <span id="heart">💚</span></p>
 
 </footer>
+{% if site.google_analytics and jekyll.environment == 'production' %} {% include analytics.html %} {% endif %}
