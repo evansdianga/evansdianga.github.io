@@ -1,53 +1,29 @@
-# Space Jekyll
+# Source Code for [itsevans.com](itsevans.com)
 
-A simple and elegant Jekyll theme based on Spacemacs. The theme works well on mobile devices as well.
+## Build this project
 
-See a live demo [here](https://victorvoid.github.io/space-jekyll-template/).
-
-![](https://github.com/victorvoid/space-jekyll-template/blob/master/screenshot.png?raw=true)
-
-# Site/User Settings
-
-customize your site in ``_config.yml``
-
-```ruby
-
-# Site settings
-description: A blog about lorem ipsum
-baseurl: "" # the subpath
-url: "" # the base hostname &/|| protocol for your site 
-
-# User settings
-username: Lorem Ipsum
-user_description: Lorem Developer
-user_title: Lorem Ipsum
-email: lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
-disqus_username: loremipsum
-
+### Prerequisites
+*
+* If [Jekyll](https://jekyllrb.com/) is not installed on your machine, install it. 
+```bash
+gem install jekyll
 ```
+* Note [Jekyll](https://jekyllrb.com/) is a `Ruby` _`gem`_. So you need to have `Ruby` installed first.
 
-## How to create a post ? 
+### Install Node js Dependencies
 
-_posts create a file .md with structure:
-
-```md
----
-layout: post
-title: "Lorem ipsum speak.."
-date: 2016-09-13 01:00:00
-image: '/assets/img/post-image.png'
-description: 'about tech'
-tags:
-- lorem
-- tech 
-categories:
-- Lorem ipsum
-twitter_text: 'How to speak with Lorem'
----
+* First install `gulp` globally
+```bash
+npm install -g gulp
 ```
+* Run `npm install` in the root directory of the `evansdianga.github.io` files cloned or downloaded from `Github`.
+
+### Running the Application Server
+
+* Run `jekyll serve` in the root directory of the `evansdianga.github.io` files which spins up a development server with livereload as you make edits.
+* *Note* If you make changes to `_config.yml` you will need to restart the server. This is a `Jekyll` limitation
+
+
 
 ## License
 The MIT License (MIT)
