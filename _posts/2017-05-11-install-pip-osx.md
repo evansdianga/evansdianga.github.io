@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  "Installing python 3 and pip3  on macOS sierra"
+title:  "Installing Python 3 and pip3  on macOS Sierra"
 image: ''
 date:   2017-05-11 20:42:31
 tags:
 - python
 - pip
 - python3
-- pip 3
+- macOs
+- macOs Sierra
 description: ''
 categories:
-- Python Docker 
+- Python
 twitter_text: 'Installing Python 3 and Pip on macOS'
 ---
-
-## Installing Python 3 and  Pip on Mac Os
+### Installing Python 3 and  Pip on Mac Os
 
 **NOTE**: This tutorial **does not use** [Virtual Environments](https://packaging.python.org/installing/#creating-and-using-virtual-environments) like [`virtualenv`](https://packaging.python.org/key_projects/#virtualenv) or [`pyenv`](https://packaging.python.org/key_projects/#venv) to manage various `python` versions
 
