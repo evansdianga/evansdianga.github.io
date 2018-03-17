@@ -2,7 +2,7 @@
 layout: post
 title:  "Share your thoughts: GloryLand Youth Week of Prayer"
 image: ''
-date:   2018-03-11 18:30:31
+date:   2018-03-18 18:30:31
 tags:
 - GYD2018
 - GloryLand
