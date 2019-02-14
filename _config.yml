@@ -1,17 +1,17 @@
 # Site settings
 title: Evans Dianga - Javascript, Angular, Python and Machine Learning
 description: "It's Evans. Sharing thoughts and insights from my day to day experiences developing software and doing Machine Learning."
-baseurl: "" # for test: remove string '/space-jekyll-templa' to ''
-url: "" 
+baseurl: '' # for test: remove string '/space-jekyll-templa' to ''
+url: ''
 # User settings
 username: evans DIANGA
 user_title: Evans Dianga
 domain: itsevans.com
 email: code@itsevans.com
 twitter_username: evansdianga
-github_username:  evansdianga
+github_username: evansdianga
 user_description: Immersed in Code
-gplus_username:  EvansDianga
+gplus_username: EvansDianga
 # disqus_username: loremipsum
 google_analytics: UA-99255854-1
 profile_picture: https://avatars3.githubusercontent.com/u/6088118?v=3&s=460
@@ -20,7 +20,6 @@ profile_picture: https://avatars3.githubusercontent.com/u/6088118?v=3&s=460
 markdown: kramdown
 highlighter: rouge
 permalink: /:title/
-
 
 # html minify
 compress_html:
@@ -48,6 +47,9 @@ projects:
   # - name: vim-frontend
   #   url: https://github.com/victorvoid/vim-frontend
   # - name: generator-capybara
-  #   url: https://github.com/victorvoid/generator-capybara 
+  #   url: https://github.com/victorvoid/generator-capybara
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
+
+plugins:
+  - jekyll-redirect-from
